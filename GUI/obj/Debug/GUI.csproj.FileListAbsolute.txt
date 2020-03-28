@@ -1,0 +1,14 @@
+C:\Users\Groves\source\repos\GUI\GUI\bin\Debug\GUI.exe.config
+C:\Users\Groves\source\repos\GUI\GUI\bin\Debug\GUI.exe
+C:\Users\Groves\source\repos\GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\Groves\source\repos\GUI\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Groves\source\repos\GUI\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\Groves\source\repos\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Groves\source\repos\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Groves\source\repos\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Groves\source\repos\GUI\GUI\obj\Debug\GUI.exe
+C:\Users\Groves\source\repos\GUI\GUI\obj\Debug\GUI.pdb
+C:\Users\Groves\source\repos\GUI\GUI\obj\Debug\GUI.LoginPage.resources
+C:\Users\Groves\source\repos\GUI\GUI\obj\Debug\GUI.CreateAccount.resources
+C:\Users\Groves\source\repos\GUI\GUI\bin\Debug\accountDB.mdf
+C:\Users\Groves\source\repos\GUI\GUI\bin\Debug\accountDB_log.ldf
